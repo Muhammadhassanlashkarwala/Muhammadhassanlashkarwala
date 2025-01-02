@@ -1,7 +1,6 @@
 ![Black and  White Gradient Personal LinkedIn Banner](https://github.com/Muhammadhassanlashkarwala/Muhammadhassanlashkarwala/assets/149760767/53d994fb-04e5-457e-a085-3aa7247a4271)
 
 <h1 align="center">Hi 👋, I'm Muhammadhassanlashkarwala</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/81RA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhassanlashkarwala&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhassanlashkarwala" /> </p>
@@ -10,7 +9,7 @@
 
 - ⚡ I'm a **Passionate Developer**
 
-- 🌱 I’m currently learning **Back End Development**
+- 📑 I’m currently learning **Back End Development**
 
 - 💬 Ask me about **JavaScript, TypeScript, MongoDB, ReactJS, NextJS, NodeJS, Firebase, Supabase, React Native**
 
