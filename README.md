@@ -8,13 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web and app development, Ai Chatbot**
+- ⚡ I'm a **Passionate Developer**
 
-- 💬 Ask me about **Web and app & Ai.**
+- 🌱 I’m currently learning **Back End Development**
 
-- 📫 How to reach me **bhaihassan036@gmail.com**
+- 💬 Ask me about **JavaScript, TypeScript, MongoDB, ReactJS, NextJS, NodeJS, Firebase, Supabase, React Native**
 
-- ⚡ Fun fact **I think i am funny**
+- 📫 How to reach me **muhammadhassanacademy@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
